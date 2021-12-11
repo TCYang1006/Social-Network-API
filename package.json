@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/TCYang1006/Social-Network-API#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.1"
   }
 }

@@ -15,7 +15,12 @@ const userSchema = new Schema(
             required: 'An email address is required',
             match: [/.+@.+\..+/, 'Please enter a valid e-mail address']
         },
-        friends: [],
+        friends: [
+            {
+                type: Schema.Types.ObjectId,
+                ref: 'User'
+            }
+        ],
         thoughts: [
             {
                 type: Schema.Types.ObjectId,
@@ -40,4 +45,4 @@ userSchema.virtual('friendCount').get(function(){
 });
 
 const user = model('user', userSchema);
-model.exports = userSchema;
+model.exports = user;
