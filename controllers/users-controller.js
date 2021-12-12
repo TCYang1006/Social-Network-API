@@ -33,8 +33,8 @@ const userController = {
     //create User
     createUser({ body }, res) {
         User.create(body)
-            .then(dbUserData => res.json(dbUserData))
-            .catch(e = res.json(e));
+          .then(dbUserData => res.json(dbUserData))
+          .catch(e => res.json(e));
     },
     //update User by id
     updateUser({ params, body }, res) {
