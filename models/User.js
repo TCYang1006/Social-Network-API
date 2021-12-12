@@ -32,7 +32,7 @@ const UserSchema = new Schema(
     }
 );
 //get total count of friends on retrieval
-userSchema.virtual('friendCount').get(function(){
+UserSchema.virtual('friendCount').get(function(){
     return this.friends.reduce(
         (total, friend) => total + friend.length + 1,
         0
