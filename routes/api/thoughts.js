@@ -29,10 +29,15 @@ router
 router
     .route('/:userId/:thoughtId')
     .delete(removeThought);
-    
-// /api/thoughts/<userId>/<thoughtId>/<reactionId>
+
+// /api/thoughts/<thoughtId>/reactions
 router
-    .route('/:userId/:thoughtId/:reactionId')
+    .route('/:thoughtId/reactions')
+    .post(addReaction)
+    
+// /api/thoughts/<thoughtId>/reactions/<reactionId>
+router
+    .route('/:thoughtId/reactions/:reactionId')
     .delete(removeReaction);
 
 module.exports = router;

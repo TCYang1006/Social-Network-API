@@ -39,18 +39,19 @@ Click on the image/link below for a video reference on users CRUD (Create, Read,
   
 Click on the image/link below for a video reference on thoughts CRUD operations.  
   
-[![User CRUD OPERATION](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1ZXZQOdwBfuajgxuBoRuXmThSZZKfOqoj/preview)
+[![Thoughts CRUD OPERATION](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1ZXZQOdwBfuajgxuBoRuXmThSZZKfOqoj/preview)
 
 ## Reactions-operation  
   
 Click on the image/link below for a video reference on creating and deleting a reaction to a thought.  
   
+[![Reactions OPERATION](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1E6OWGV9Oo6LuyTlryc5x3zlr1IrgNOkQ/preview)
   
 ## Friends-operation  
   
 Click on the image/link below for a video reference on adding and deleting a friend to a user.  
   
-[![User CRUD OPERATION](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1KZDsFYwnIkQwdP9-ZKcr7V2IgxZkNwNf/preview)
+[![Friends OPERATION](https://pacificequitygroup.net/wp-content/uploads/2017/01/video-player-placeholder-768x356.png)](https://drive.google.com/file/d/1KZDsFYwnIkQwdP9-ZKcr7V2IgxZkNwNf/preview)
   
 ## Questions:
 Github profile:[TCYang1006](https://github.com/TCYang1006)
